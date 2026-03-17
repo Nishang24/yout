@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # yout
+=======
+>>>>>>> 1f77d94 (Initial commit)
 # YouTube Clone Android App
 
 A high-performance, feature-rich YouTube clone built for Android using Java. This project demonstrates the implementation of a modern media application, focusing on seamless video streaming, interactive UI components, and scalable architecture.
@@ -69,7 +72,11 @@ In `PlayerActivity`, the `ExoPlayer` instance is built using a `DefaultRenderers
 
 ## 📦 Installation & Setup
 
+<<<<<<< HEAD
 1. **Clone**: `git clone https://github.com/Nishang24/yout.git`
+=======
+1. **Clone**: `git clone https://github.com/your-username/yout.git`
+>>>>>>> 1f77d94 (Initial commit)
 2. **Build**: Open in Android Studio and let Gradle download dependencies.
 3. **Permissions**: The app requires `<uses-permission android:name="android.permission.INTERNET" />` which is already included in the Manifest.
 4. **Run**: Deploy to any device running Android 7.0 (API 24) or higher.
